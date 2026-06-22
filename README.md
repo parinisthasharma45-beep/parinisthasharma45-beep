@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Parinistha 👋
 
-<!--
-**parinisthasharma45-beep/parinisthasharma45-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring mobile development with **Flutter**.
 
-Here are some ideas to get you started:
+## Things i've worked with so far
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◉ Flutter
+◉ Dart
+◉ REST APIs
+◉ Local Database
+◉ Firebase
+◉ GetX
+
+## Built a few small projects to understand
+
+* state management
+* api integration
+* local storage
+* authentication
+* turning designs into working apps
+
+still early in the journey, but every project teaches something new.
+
+---
+
+## Current objective
+
+build apps that feel simple to use
+and interesting to build.
+
+---
+
+## Github status
+
+commits may be small.
+progress isn't.
+
+see you in future repositories ✨
